@@ -1,0 +1,15 @@
+name: DeathSwap
+version: 1.0.0
+main: me.tomoli.deathswap.DeathSwap
+author: Tomoli75
+commands:
+  startgame:
+    description: Starts the game
+    usage: /<command>
+  stopgame:
+    description: Stops the game
+    usage: /<command>
+  debuggame:
+    description: Debugging uses only
+    usage: /<command>
+api-version: 1.18
